@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/47/trunk/LexicalSearchCapstone/src/edu/uwm/cs/lexical_search/util
+END
+SWTResourceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/11/trunk/LexicalSearchCapstone/src/edu/uwm/cs/lexical_search/util/SWTResourceManager.java
+END
+CommandPrompt.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/47/trunk/LexicalSearchCapstone/src/edu/uwm/cs/lexical_search/util/CommandPrompt.java
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/47/trunk/LexicalSearchCapstone/src/edu/uwm/cs/lexical_search/util/FileUtils.java
+END
+DialogUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/47/trunk/LexicalSearchCapstone/src/edu/uwm/cs/lexical_search/util/DialogUtils.java
+END
+FileComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/47/trunk/LexicalSearchCapstone/src/edu/uwm/cs/lexical_search/util/FileComparator.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/47/trunk/LexicalSearchCapstone/src/edu/uwm/cs/lexical_search/util/Pair.java
+END
+JavaLineStyler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11/trunk/LexicalSearchCapstone/src/edu/uwm/cs/lexical_search/util/JavaLineStyler.java
+END
+FileManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/47/trunk/LexicalSearchCapstone/src/edu/uwm/cs/lexical_search/util/FileManagement.java
+END
