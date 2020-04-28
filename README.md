@@ -4,7 +4,7 @@ GUI prototype of Versioned [Lexical Search for searching](https://github.com/the
 
 This project was created to support the Master's Thesis of Alex Garcia in 2012.
 
-See the `Prototypes` folder for pictures.
+See the `documents` folder for details.
 
 Contributors:
 
